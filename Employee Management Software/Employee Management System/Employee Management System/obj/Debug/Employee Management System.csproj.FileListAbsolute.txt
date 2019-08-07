@@ -70,6 +70,7 @@ C:\Users\Asus\Desktop\C# Project\Employee-Management-System\Employee Management 
 <<<<<<< HEAD
 <<<<<<< HEAD
 C:\Users\Asus\Desktop\C# Project\Employee-Management-System\Employee Management Software\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Salary.resources
+<<<<<<< HEAD
 D:\Garage\GIT\Employee-Management-System\Employee Management Software\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csprojAssemblyReference.cache
 D:\Garage\GIT\Employee-Management-System\Employee Management Software\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.AdminHome.resources
 D:\Garage\GIT\Employee-Management-System\Employee Management Software\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Employee.resources
@@ -106,3 +107,5 @@ D:\Garage\GIT\Employee-Management-System\Employee Management Software\Employee M
 >>>>>>> parent of 6d49824... Merge branch 'master' of https://github.com/Harindu973/Employee-Management-System
 =======
 >>>>>>> parent of 6d49824... Merge branch 'master' of https://github.com/Harindu973/Employee-Management-System
+=======
+>>>>>>> parent of 33a25bc... email update

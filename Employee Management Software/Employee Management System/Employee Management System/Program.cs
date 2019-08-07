@@ -18,6 +18,7 @@ namespace Employee_Management_System
             Application.SetCompatibleTextRenderingDefault(false);
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             Application.Run(new testemail());
 =======
             Application.Run(new Reg());
@@ -25,6 +26,9 @@ namespace Employee_Management_System
 =======
             Application.Run(new Reg());
 >>>>>>> parent of 6d49824... Merge branch 'master' of https://github.com/Harindu973/Employee-Management-System
+=======
+            Application.Run(new Employee());
+>>>>>>> parent of 33a25bc... email update
         }
     }
 }

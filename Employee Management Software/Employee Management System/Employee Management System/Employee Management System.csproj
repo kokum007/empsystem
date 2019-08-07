@@ -74,7 +74,6 @@
     <Compile Include="AdminHome.Designer.cs">
       <DependentUpon>AdminHome.cs</DependentUpon>
     </Compile>
-    <Compile Include="email.cs" />
     <Compile Include="Salary.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -86,12 +85,6 @@
     </Compile>
     <Compile Include="ScanS.Designer.cs">
       <DependentUpon>ScanS.cs</DependentUpon>
-    </Compile>
-    <Compile Include="testemail.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="testemail.Designer.cs">
-      <DependentUpon>testemail.cs</DependentUpon>
     </Compile>
     <Compile Include="ThirdParty.cs" />
     <Compile Include="Employee.cs">
@@ -156,9 +149,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="ScanS.resx">
       <DependentUpon>ScanS.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="testemail.resx">
-      <DependentUpon>testemail.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
