@@ -17,7 +17,11 @@ namespace Employee_Management_System
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
 <<<<<<< HEAD
+<<<<<<< HEAD
             Application.Run(new testemail());
+=======
+            Application.Run(new Reg());
+>>>>>>> parent of 6d49824... Merge branch 'master' of https://github.com/Harindu973/Employee-Management-System
 =======
             Application.Run(new Reg());
 >>>>>>> parent of 6d49824... Merge branch 'master' of https://github.com/Harindu973/Employee-Management-System
